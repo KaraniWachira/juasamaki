@@ -1,0 +1,17 @@
+# Core scientific libraries
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.9.0
+
+# Computer vision
+opencv-python>=4.10.0
+
+# Machine learning (for weight prediction model)
+scikit-learn>=1.5.0
+
+# Interactive app deployment (for later stages)
+streamlit>=1.38.0
+gradio>=4.38.0
+
+# Utility tools
+
